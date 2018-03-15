@@ -1,3 +1,2 @@
 # RubyGarageTaskManager
-
-Test Task for Ruby Garage
+Test task for RubyGarage
